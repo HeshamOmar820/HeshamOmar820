@@ -1,11 +1,11 @@
 # 💫 About Me:
 Top Rated FrontEnd Developer @Upwork
 
-FrontEnd Developer @ArabsStock 🇸🇦
+FrontEnd Developer @ArabsStock ![](https://flagcdn.com/16x12/sa.png) 
 
-Former FrontEnd Developer @Increast 🇨🇦
+Former FrontEnd Developer @Increast ![](https://flagcdn.com/16x12/ca.png) 
 
-Former FrontEnd Developer @NXT YOU GmbH 🇩🇪
+Former FrontEnd Developer @NXT YOU GmbH ![](https://flagcdn.com/16x12/de.png) 
 
 
 # 💻 Tech Stack:
